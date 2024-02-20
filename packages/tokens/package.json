@@ -11,6 +11,8 @@
   },
   "devDependencies": {
     "tsup": "^8.0.2",
+    "@zap-ui/ts-config": "*",
+    "@zap-ui/eslint-config": "*",
     "typescript": "^5.3.3"
   }
 }
